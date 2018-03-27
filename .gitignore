@@ -8,5 +8,5 @@
 tmp
 node_modules
 coverage
-/dist/nbproject/private/
+package-lock.json
 /nbproject/private/
