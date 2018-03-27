@@ -1,18 +1,19 @@
 {
-  "name": "psd-viewer",
-  "version": "0.1.0",
-  "description": "A simple photoshop document viewer",
-  "author": "zenoamaro <zenoamaro@gmail.com>",
+  "name": "psd-viewer-for-web-developer",
+  "version": "0.2.0",
+  "description": "Photoshop document viewer made for web developer by web developer",
+  "author": "Ivan Saranin <ivan@saranin.com>",
   "license": "MIT",
-  "homepage": "https://github.com/zenoamaro/psd-viewer",
-  "private": true,
+  "homepage": "https://github.com/isaranin/psd-viewer",
+  "private": false,
   "bugs": {
-    "url": "https://github.com/zenoamaro/psd-viewer/issues",
-    "email": "zenoamaro@gmail.com"
+    "url": "https://github.com/isaranin/psd-viewer/issues",
+    "email": "ivan@saranin.com"
   },
+  "foked-from": "https://github.com/zenoamaro/psd-viewer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zenoamaro/psd-viewer.git"
+    "url": "https://github.com/isaranin/psd-viewer.git"
   },
   "main": "lib/index.js",
   "browser": "dist/scripts.js",
