@@ -1,0 +1,9 @@
+/.git
+/nbproject
+/test
+/db
+/docs
+/node_modules
+/src
+license
+package.json
