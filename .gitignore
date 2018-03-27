@@ -8,3 +8,5 @@
 tmp
 node_modules
 coverage
+/dist/nbproject/private/
+/nbproject/private/
